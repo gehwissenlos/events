@@ -8,7 +8,7 @@ Code is still in beta because Firefox and IE don't support embedded fonts in svg
 example
 ======
 
-View an example on http://events.tsv-bodnegg.de/example
+View an example (with Chrome or Safari) on http://events.tsv-bodnegg.de/example
 
 How to for the svg file
 ======
