@@ -3,6 +3,11 @@ events
 
 Example for responsive website with dynamic text in svg graphic
 
+example
+======
+
+View an example on http://events.tsv-bodnegg.de/sportbasar
+
 How to for the svg file
 ======
 
