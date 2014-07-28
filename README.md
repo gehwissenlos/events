@@ -3,6 +3,8 @@ events
 
 Example for responsive website with dynamic text in svg graphic
 
+Code is still in beta because Firefox and IE don't support embedded fonts in svg files :(
+
 example
 ======
 
