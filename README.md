@@ -6,7 +6,7 @@ Example for responsive website with dynamic text in svg graphic
 example
 ======
 
-View an example on http://events.tsv-bodnegg.de/sportbasar
+View an example on http://events.tsv-bodnegg.de/example
 
 How to for the svg file
 ======
