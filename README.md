@@ -6,9 +6,9 @@ Example for responsive website with dynamic text in svg graphic
 example
 ======
 
-View an example  on http://events.tsv-bodnegg.de/example
+View an example  on http://events.tsv-bodnegg.de/example or on http://events.tsv-bodnegg.de/files/header.php?text=example (dynamic text goes after ?text=)
 
-How to for the svg file
+how to for the svg file
 ======
 
 1. Create svg files with Illustrator or other svg application, embed the font as "SVG". Important: Use only one font to embed, Firefox and IE can't handle two or more font descriptions
